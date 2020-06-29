@@ -6,6 +6,7 @@
 2. [Project Motivation](#motivation)
 3. [Instructions](#Instructions)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Results](#Results)
 
 ## Installation 
 
@@ -116,3 +117,7 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 
 Credits must be given to [Udacity](https://www.udacity.com/) for the starter codes used in this project.
 Feel free to use the code here as you would like !
+
+## Results
+
+The main findings of the code can be found at the post available [here](https://amine13u.github.io/A-Dog-Breed-Classifier/).
